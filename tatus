@@ -1,0 +1,60 @@
+[33mcommit 4f2839eee8829efd6e2a66e284c124f0b0db1746[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ahmedemadd2001 <ahmedemad9965@gmail.com>
+Date:   Thu Feb 26 00:49:22 2026 +0200
+
+    adding index
+
+[33mcommit d8d16bb2cdf07c45d5095b3b74339a0a78c9646e[m
+Author: ahmedemadd2001 <ahmedemad9965@gmail.com>
+Date:   Thu Feb 26 00:47:35 2026 +0200
+
+    first commit
+
+[33mcommit 80670ac6baf30d5d6b257e8a45b8b553601219c7[m
+Merge: 9d5ed9a 08f9d2b
+Author: ahmedemadd2001 <ahmedemad9965@gmail.com>
+Date:   Thu Feb 26 00:46:17 2026 +0200
+
+    Merge branch 'main' of https://github.com/ahmedemadd2001/my-first-project
+
+[33mcommit 9d5ed9ae4bffbc789ca09318f226ab4dc74f0918[m
+Author: ahmedemadd2001 <ahmedemad9965@gmail.com>
+Date:   Thu Feb 26 00:45:41 2026 +0200
+
+    first commit
+
+[33mcommit 08f9d2b5b00cd907957f79638f040fc5f1bfb83f[m
+Author: ahmedemadd2001 <ahmedemad9965@gmail.com>
+Date:   Wed Aug 27 17:05:32 2025 +0300
+
+    Create osama
+
+[33mcommit 6df62d98bec464adad46e6dc62e4c43dd2cb2eb2[m
+Author: ahmedemadd2001 <ahmedemad9965@gmail.com>
+Date:   Sun Aug 24 20:16:47 2025 +0300
+
+    Createed five commit ahmed emad
+
+[33mcommit 69f9221da5525f85828e014dc937be967ce73e18[m
+Author: ahmedemadd2001 <ahmedemad9965@gmail.com>
+Date:   Sun Aug 24 02:06:23 2025 +0300
+
+    createed the main project structure 2
+
+[33mcommit f4b3972b099b530792b65c75e2e7d5e4218401c8[m
+Author: ahmedemadd2001 <ahmedemad9965@gmail.com>
+Date:   Thu Aug 21 21:00:30 2025 +0300
+
+    Createed the main project structure
+
+[33mcommit f1c4cb02b5aebc2ce02e21f13624faf40238e387[m
+Author: ahmedemadd2001 <ahmedemad9965@gmail.com>
+Date:   Fri Aug 15 04:31:52 2025 +0300
+
+    Update README.md
+
+[33mcommit 17d66d2065aea934b5ccaa6bdf0f87d0f1e50ff9[m
+Author: ahmedemadd2001 <ahmedemad9965@gmail.com>
+Date:   Fri Aug 15 04:17:21 2025 +0300
+
+    Initial commit
