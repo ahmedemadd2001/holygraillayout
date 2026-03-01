@@ -4,3 +4,29 @@
     height: 100vh;
     background-color: rebeccapurple;
 }
+
+.header,
+.footer {
+    flex: 0 0 50px;
+    background-color: brown;
+}
+
+.content-body {
+    flex-grow: 1;
+    width: calc(100vh - 100px);
+    background-color: aquamarine;
+}
+
+.content-body,
+.content {
+    flex-grow: 1;
+    width: calc(100% - 100px);
+}
+
+.content-body .side-nav,
+.content-body .ads {
+    flex: 0 0 100px;
+    overflow: auto;
+    background-color: black;
+    color: white;
+}
